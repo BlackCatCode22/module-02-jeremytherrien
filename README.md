@@ -39,6 +39,39 @@ Submit your source code with comments explaining your logic.
 Ensure your code is neatly formatted and easy to read.
 Test your program with various inputs to ensure reliability.
 
+# 2) funWithFunctions.cpp
+
+## Overview
+In this project, you will explore the use of functions in C++. You will create a program that involves three distinct functions: getAnIntFromTheUser, compareTwoInts, and sumTwoInts. The program will demonstrate how functions can be used to break down a problem into smaller, manageable parts.
+
+## Objectives
+Learn to define and use functions in C++.
+Understand the concept of returning values from functions.
+Practice obtaining user input and performing basic calculations.
+## Requirements
+Implement a function named getAnIntFromTheUser that prompts the user to enter an integer and then returns this integer.
+Create a function named compareTwoInts that takes two integers as parameters and returns the larger of the two.
+Develop a function named sumTwoInts that takes two integers as parameters and returns their sum.
+Your main function should use these three functions to demonstrate their functionality.
+## Suggested Implementation Steps
+Define the getAnIntFromTheUser function to ask for an integer and return it.
+Define the compareTwoInts function to compare two integers and return the larger one.
+Define the sumTwoInts function to calculate and return the sum of two integers.
+In your main function, use getAnIntFromTheUser to obtain two integers from the user.
+Display the result of compareTwoInts and sumTwoInts using the integers obtained.
+## Tips
+Remember to include comments explaining what each part of your code does.
+Test your functions with different inputs to ensure they work correctly.
+Pay attention to the return types of your functions.
+## Extension Ideas
+Add more functions to perform different calculations, like subtracting or multiplying two integers.
+Enhance getAnIntFromTheUser to check if the input is actually an integer and prompt again if not.
+## Submission Guidelines
+Submit your source code file with clear and verbose comments explaining your logic.
+Ensure your code compiles and runs correctly without errors.
+Include at least one example of each function being used in your main function.
+
+
 
 
 
