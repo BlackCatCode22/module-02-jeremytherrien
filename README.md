@@ -71,7 +71,7 @@ Submit your source code file with clear and verbose comments explaining your log
 Ensure your code compiles and runs correctly without errors.
 Include at least one example of each function being used in your main function.
 
-# largestOfThree.cpp
+# 3) largestOfThree.cpp
 ## Overview
 This project, titled "largestOfThree.cpp," is designed to help you understand conditional statements in C++. Your task is to write a program that asks the user for three integers, determines the largest among them using nested if statements, and outputs the largest integer.
 ## Objectives
